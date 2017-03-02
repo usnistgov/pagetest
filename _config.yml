@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is meaningless content used only for the purpose of testing
   a static website deployment solution.  Please disregard this repo.
 baseurl: "/pagetest/" # the subpath of your site, e.g. /blog/
-url: "https://oog.dnsalias.net" # the base hostname & protocol for your site
+#url: "https://oog.dnsalias.net" # the base hostname & protocol for your site
 twitter_username: stevebnistgov
 github_username:  mdsteveb
 

@@ -11,4 +11,4 @@ github_username:  mdsteveb
 
 # Build settings
 markdown: kramdown
-gems: ["jekyll-fjslfjskl"]
+gems: ["jekyll-coffeescript"]

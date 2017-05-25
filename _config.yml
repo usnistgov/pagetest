@@ -1,4 +1,5 @@
 # Site settings
+THISISATESTERROR
 title: Testing nist-page publishing
 email: steveb@nist.gov
 description: > # this means to ignore newlines until "baseurl:"

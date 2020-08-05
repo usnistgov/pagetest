@@ -12,3 +12,4 @@ github_username:  mdsteveb
 # Build settings
 markdown: kramdown
 plugins: []
+theme: jekyll-theme-cayman

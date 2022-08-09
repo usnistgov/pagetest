@@ -6,4 +6,4 @@ categories: update
 ---
 Testing jquery 2.x and 3.x for compatibility with leaveNotice and nist-header-footer.
 
-Here is an off-site URL to test leaveNotice with:  https://www.dell.com
+Here is an off-site URL to test leaveNotice with:  [https://www.dell.com](https://www.dell.com)

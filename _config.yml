@@ -14,5 +14,5 @@ markdown: kramdown
 plugins: []
 theme: jekyll-theme-cayman
 future: true
-  #paginate: 10
-  #paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/

@@ -11,7 +11,7 @@ github_username:  mdsteveb
 
 # Build settings
 markdown: kramdown
-plugins: []
+plugins: ['jekyll-paginate']
 theme: jekyll-theme-cayman
 future: true
 paginate: 10

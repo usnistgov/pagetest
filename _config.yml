@@ -13,3 +13,4 @@ github_username:  mdsteveb
 markdown: kramdown
 plugins: []
 theme: jekyll-theme-cayman
+future: true

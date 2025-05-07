@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "pages.nist.gov is upgraded!"
-date:   2019-12-06 14:28:00
-categories: jekyll update
+title:  pages.nist.gov is upgraded!
+tags: jekyll update
 ---
 # IT'S UPDATED!
 

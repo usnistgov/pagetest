@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Networking issues may be resolved?"
-date:   2015-08-13 15:01:10
-categories: jekyll update
+title:  Networking issues may be resolved?
+tags: jekyll update
 ---
 # Networking Issues Resolved?
 

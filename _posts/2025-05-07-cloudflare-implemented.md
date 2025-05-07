@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "CloudFlare front end has been added
-date: 2025-05-07 14:00:22
-categories: update
+title:  CloudFlare front end has been added
+tags: update
 ---
 # CloudFlare implementation
 

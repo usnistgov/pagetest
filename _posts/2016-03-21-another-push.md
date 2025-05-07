@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Networking issues may be resolved?"
-date:   2016-01-15 14:01:10
-categories: jekyll update
+title:  Networking issues may be resolved?
+tags: jekyll update
 ---
 # Testing updates to hookshot.js
 

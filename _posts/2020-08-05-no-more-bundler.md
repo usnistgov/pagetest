@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Breaking change: no more bundler"
-date:   2020-08-05 14:28:00
-categories: jekyll update
+title:  Breaking change: no more bundler
+tags: jekyll update
 ---
 # BREAKING CHANGE
 

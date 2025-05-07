@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "pages.nist.gov OS is upgraded"
-date:   2023-05-05 14:28:00
-categories: jekyll update
+title:  pages.nist.gov OS is upgraded
+tags: jekyll update
 ---
 # System upgrade completed
 

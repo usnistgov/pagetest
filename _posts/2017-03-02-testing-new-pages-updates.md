@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Testing new pages functionality"
-date:   2017-03-02 16:21:10
-categories: pages jekyll update
+title:  Testing new pages functionality
+tags: pages jekyll update
 ---
 # Testing more updates
 

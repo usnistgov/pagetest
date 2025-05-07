@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "pages.nist.gov has moved to a new backend server"
-date: 2025-04-28 14:30:22
-categories: update
+title:  pages.nist.gov has moved to a new backend server
+tags: update
 ---
 # System migration completed
 

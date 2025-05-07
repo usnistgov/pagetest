@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Testing jquery versions"
-date:   2022-08-09 14:28:00
-categories: update
+title:  Testing jquery versions
+tags: update
 ---
 Testing jquery 2.x and 3.x for compatibility with leaveNotice and nist-header-footer.
 

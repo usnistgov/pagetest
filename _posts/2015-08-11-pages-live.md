@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "pages.nist.gov is live!"
-date:   2015-08-11 10:28:00
-categories: jekyll update
+title:  pages.nist.gov is live!
+tags: jekyll update
 ---
 # IT'S ALIVE!
 

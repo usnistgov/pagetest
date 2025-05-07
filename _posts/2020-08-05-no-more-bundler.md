@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Breaking change: no more bundler
+title:  "Breaking change: no more bundler"
 tags: jekyll update
 ---
 # BREAKING CHANGE
